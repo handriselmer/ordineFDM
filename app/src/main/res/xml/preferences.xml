@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <ListPreference
+        android:key="key_tipoOrd"
+        android:title="Modalità ordine"
+        android:entries="@array/tipoOrd"
+        android:entryValues="@array/tipoOrdValues" />
+
+    <EditTextPreference
+        android:key="key_cod_cli"
+        android:title="@string/cod_cli"
+        android:dialogTitle="@string/cod_cli"
+        android:enabled="false" />
+
+</PreferenceScreen>

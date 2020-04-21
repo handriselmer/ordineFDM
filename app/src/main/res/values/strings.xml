@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">OrdineFDM</string>
+    <string name="barcode_label">Barcode</string>
+    <string name="action_settings">Settings</string>
+    <string name="quantita_label">Quantità</string>
+    <string name="descrizione_hint">Descrizione</string>
+    <string name="colli_label">Colli</string>
+    <string name="ok_hint">OK</string>
+    <string name="pzxcrt_label">Pz x Crt</string>
+    <string name="pz_label">PZ</string>
+    <string name="colli_da_ord_label">Colli da ordinare</string>
+    <string name="inizia_ordine">Tocca il carrello verde</string>
+    <string name="ordine_presente">Ordine già presente</string>
+    <string name="new_qta">Nuova Quantità</string>
+    <string name="camera">Camera</string>
+    <string name="cod_cli">Codice Cliente</string>
+    <string name="title_activity_settings">Settings</string>
+</resources>
